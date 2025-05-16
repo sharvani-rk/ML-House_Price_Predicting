@@ -30,5 +30,5 @@ It trains the model on sample data and can be used to predict the price of a new
 ---
 
 ## 👩‍💻 Author
-Sharvani (Milky)
+Sharvani Rampur
 
